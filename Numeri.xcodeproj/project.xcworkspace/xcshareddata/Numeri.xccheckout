@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FDE231CE-E744-46E3-B8A2-254B79C2D830</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Numeri</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B6DF67CB-DF98-4719-BA3B-EC45503AA1E8</key>
+		<string>https://svn.freepository.com/1883Pmug2w4.A/arcae/trunk/Numeri</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Numeri.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B6DF67CB-DF98-4719-BA3B-EC45503AA1E8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>B6DF67CB-DF98-4719-BA3B-EC45503AA1E8</key>
+		<string>https://svn.freepository.com/1883Pmug2w4.A</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://svn.freepository.com/1883Pmug2w4.A/arcae/trunk/Numeri/Numeri.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B6DF67CB-DF98-4719-BA3B-EC45503AA1E8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B6DF67CB-DF98-4719-BA3B-EC45503AA1E8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Numeri</string>
+		</dict>
+	</array>
+</dict>
+</plist>

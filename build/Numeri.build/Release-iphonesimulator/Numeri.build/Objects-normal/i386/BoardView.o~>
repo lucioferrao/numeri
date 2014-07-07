@@ -1,2 +1,0 @@
-/Users/lucio_ferrao/arcae/Numeri/Classes/BoardView.m: In function '-[BoardView refreshView]':
-/Users/lucio_ferrao/arcae/Numeri/Classes/BoardView.m:435: warning: unused variable 'showUnfulfilled'
